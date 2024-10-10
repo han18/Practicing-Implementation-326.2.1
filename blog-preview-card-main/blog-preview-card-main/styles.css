@@ -5,7 +5,7 @@ body {
 
 .attribution { 
     font-size: 11px; 
-    text-align: center; 
+    /* text-align: center;  */
     background-color: white;
     width: 300px;
     margin: auto;
@@ -18,9 +18,22 @@ body {
 
 }
 
+.side-box {
+    border: 1px solid red;
+    width: 90px;
+    margin: 5px 0 0 15px;
+    background-color: hsl(47, 88%, 63%);
+}
+
 img {
     margin-top: 20px;
     width: 270px;
     border-radius: 10px;
 }
 
+p {
+    color: rgb(127, 125, 125);
+    font-size: small;
+    /* text-align:center; */
+    /* padding: 0 30px 0 0px; */
+}
