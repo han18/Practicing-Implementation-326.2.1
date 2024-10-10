@@ -1,5 +1,5 @@
 body {
-    background-color: hsl(232, 48%, 85%);
+    background-color: hsl(230, 33%, 85%);
 }
 
 .attribution { 
@@ -8,7 +8,7 @@ body {
     background-color: white;
     width: 300px;
     margin: auto;
-    height: 500px;
+    height: 470px;
     border-radius: 10px;
     margin-top: 100px;
 }
