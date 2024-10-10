@@ -37,3 +37,11 @@ p {
     /* text-align:center; */
     /* padding: 0 30px 0 0px; */
 }
+
+.image-avatar {
+    width: 200px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+
