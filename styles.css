@@ -1,0 +1,26 @@
+body {
+    background-color: hsl(232, 48%, 85%);
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    background-color: white;
+    width: 350px;
+    margin: auto;
+    height: 600px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+
+
+
+/* .attribution a { color: hsl(228, 45%, 44%); } */
+
