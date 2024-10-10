@@ -1,5 +1,5 @@
 body {
-    background-color: hsl(230, 33%, 85%);
+    background-color:hsl(212, 45%, 89%);
 }
 
 .attribution { 
@@ -11,6 +11,7 @@ body {
     height: 470px;
     border-radius: 10px;
     margin-top: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 
