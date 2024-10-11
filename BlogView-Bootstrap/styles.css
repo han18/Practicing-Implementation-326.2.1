@@ -1,0 +1,47 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+}
+
+
+.attribution { 
+    font-size: 11px; 
+    /* text-align: center;  */
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    height: 470px;
+    border-radius: 10px;
+    margin-top: 100px;
+    border: 1px solid black;
+    box-shadow: 5px 6px black;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+
+}
+
+.side-box {
+    border: 1px solid red;
+    width: 90px;
+    margin: 5px 0 0 15px;
+    background-color: hsl(47, 88%, 63%);
+}
+
+img {
+    margin-top: 20px;
+    width: 270px;
+    border-radius: 10px;
+}
+
+p {
+    color: rgb(127, 125, 125);
+    font-size: small;
+    /* text-align:center; */
+    /* padding: 0 30px 0 0px; */
+}
+
+.image-avatar {
+    width: 200px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+
